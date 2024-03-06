@@ -1,26 +1,33 @@
 # Hey 👋 
 
-<div style="display: flex; gap: 1rem">
-    <img src="./assets/penguin.gif" width="150"/>
-    <div>
-        <h2> About Me </h2>        
-        <li>👨🏻‍💻 Full-Stack Web Developer</li>
-        <li>📘 M.Sc. Applied Computer Science Student</li>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <img src="./assets/penguin.gif" width="150"/>
+        </td>
+        <td valign="top">
+            <h2>About Me</h2>        
+            <li>👨🏻‍💻 Full-Stack Web Developer</li>
+            <li>📘 M.Sc. Applied Computer Science Student</li>
+        </td>
+    </tr>
+</table>
 
-<br>
+<table>
+    <tr>
+        <td>
+            <a href="https://www.linkedin.com/in/marcel-nöhre-155377235/" target="_blank" style="padding-right: 1rem">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
+            </a>
+        </td>
+        <td>
+            <a href="https://marcel-noehre.de" target="_blank">
+                <img src="https://img.shields.io/badge/Portfolio-9934cb?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio" width="150">
+            </a>
+        </td>
+</table>
 
 [![main](https://skillicons.dev/icons?i=angular,ts,nestjs,java,python&theme=dark&perline=5)](https://skillicons.dev)
-
-<div style="display: flex;">
-    <a href="https://www.linkedin.com/in/marcel-nöhre-155377235/" target="_blank" style="padding-right: 1rem">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
-    </a>
-    <a href="https://marcel-noehre.de" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-9934cb?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio" width="150">
-    </a>
-</div>
 
 <br>
 
